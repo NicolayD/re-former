@@ -1,24 +1,5 @@
-# README
+# Re-Former
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a solution for the [Re-Former project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms?ref=lnav) from the [Ruby on Rails track](https://www.theodinproject.com/courses/ruby-on-rails) of [The Odin Project](https://www.theodinproject.com/home).  
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It is an exercise for building forms in Rails.
